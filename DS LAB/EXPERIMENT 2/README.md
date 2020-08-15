@@ -34,6 +34,22 @@ given element.
 7.Given key elements are 12,92,33.
 8. our first key element is 12 so the mid position is 4
 
+
+![BINAY ITERATIVE 1 (DS LAB) - Copy](https://user-images.githubusercontent.com/69640871/90315542-08fb3700-df3a-11ea-96b8-ac09cfb6a7df.png)
+![BINAY ITERATIVE 3 (DS LAB)](https://user-images.githubusercontent.com/69640871/90315555-1f08f780-df3a-11ea-9a0e-3816749ea2d7.png)
+![binary iterative 3](https://user-images.githubusercontent.com/69640871/90315584-3b0c9900-df3a-11ea-8524-ef3aeff1488f.png)
+
+
+
+
+
+
+
+
+
+
+
+
 The and the element is 36, which
 is > than 12 therefore i = 0 and n = mid – 1 i.e. 3 and now the mid value changes
 to (0 + 3)/2 = 1.5 and we will be considering it as the position 1 and at position 1
