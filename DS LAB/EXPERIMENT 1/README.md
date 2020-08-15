@@ -14,3 +14,5 @@ So for the key element 100 it prints “element not found”)
                  4
                  Element not found
                  
+![DS LAB EXP1 ITERATIVE LINEAR](https://user-images.githubusercontent.com/69640871/90315441-3bf0fb00-df39-11ea-9374-3ac09a3ddb0a.png)
+![LINEAR SEARCH2 ITEARATIVE(DS LAB)](https://user-images.githubusercontent.com/69640871/90315445-43180900-df39-11ea-9234-cc7ab24e1ae8.png)
