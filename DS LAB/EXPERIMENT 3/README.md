@@ -16,3 +16,9 @@ INPUT:
 OUTPUT:
                  4
                  Element not found
+                 
+                 
+                 
+![linear recursive 1](https://user-images.githubusercontent.com/69640871/90316533-6b573600-df40-11ea-81ed-514cbcac70dc.png)
+![linear recursive 2](https://user-images.githubusercontent.com/69640871/90316543-7f9b3300-df40-11ea-9ca5-20068a79225b.png)
+
