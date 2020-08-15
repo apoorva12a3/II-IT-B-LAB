@@ -19,3 +19,7 @@ OUTPUT:
                 8
                4
      
+![binary recurscive 1](https://user-images.githubusercontent.com/69640871/90316777-2d5b1180-df42-11ea-989f-f5dad5a67580.png)
+![binary recursive 3](https://user-images.githubusercontent.com/69640871/90316799-5085c100-df42-11ea-9be7-af095ba2f323.png
+)
+![binar recursive 2](https://user-images.githubusercontent.com/69640871/90316768-1ddbc880-df42-11ea-97f5-e1e0e9cbe5a8.png)
