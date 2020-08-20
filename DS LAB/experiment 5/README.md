@@ -122,3 +122,10 @@ By the end of the fourth iteration, the fifth greatest
 element lies at the end. Here, it is 89 which is last fourth
 from the end. And the array elements (after the com
 pletion of 5 th iteration) are:
+
+
+
+![bubble_sort1(DS)](https://user-images.githubusercontent.com/69640871/90803877-08e2a900-e337-11ea-81c4-6d95d5167ddc.png)
+![BUBBLE_SORT3(DS)](https://user-images.githubusercontent.com/69640871/90803910-1435d480-e337-11ea-8b3f-20188c134d3f.png)
+![BUBBLE_SORT2(DS)](https://user-images.githubusercontent.com/69640871/90803960-2a439500-e337-11ea-94c0-7d586b4a3dea.png)
+
